@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train_sya_121.jpg</filename>
+	<path>C:\Users\User\Desktop\train\train_sya_121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>384</ymin>
+			<xmax>375</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>
