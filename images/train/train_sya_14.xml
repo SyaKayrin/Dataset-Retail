@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>train_sya_14.jpg</filename>
-	<path>C:\Users\User\Desktop\train\train_sya_14.jpg</path>
+	<path>C:\Users\User\Downloads\TestTrainImages\train\train_sya_14.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -86,11 +86,11 @@
 	<object>
 		<name>empty</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>1</difficult>
 		<bndbox>
-			<xmin>5</xmin>
-			<ymin>248</ymin>
+			<xmin>1</xmin>
+			<ymin>247</ymin>
 			<xmax>29</xmax>
 			<ymax>304</ymax>
 		</bndbox>
