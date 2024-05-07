@@ -39,12 +39,12 @@
 		<name>empty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>1</difficult>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>63</xmin>
-			<ymin>535</ymin>
-			<xmax>116</xmax>
-			<ymax>590</ymax>
+			<xmin>70</xmin>
+			<ymin>531</ymin>
+			<xmax>114</xmax>
+			<ymax>594</ymax>
 		</bndbox>
 	</object>
 </annotation>

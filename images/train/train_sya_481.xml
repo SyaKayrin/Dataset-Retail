@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>train_sya_481.jpg</filename>
-	<path>C:\Users\User\Desktop\train\train_sya_481.jpg</path>
+	<path>C:\Users\Asus\OneDrive - Swinburne University Of Technology Sarawak Campus\Intelligent Systems-DESKTOP-83K3K67\TestTrainNew\TestTrainNew\train\train_sya_481.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>57</xmin>
 			<ymin>428</ymin>
-			<xmax>102</xmax>
-			<ymax>486</ymax>
+			<xmax>99</xmax>
+			<ymax>481</ymax>
 		</bndbox>
 	</object>
 	<object>
