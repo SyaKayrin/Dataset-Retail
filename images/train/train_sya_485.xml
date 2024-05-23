@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>train_sya_485.jpg</filename>
-	<path>C:\Users\Asus\OneDrive - Swinburne University Of Technology Sarawak Campus\Intelligent Systems-DESKTOP-83K3K67\TestTrainNew\TestTrainNew\train\train_sya_485.jpg</path>
+	<path>C:\Users\User\Documents\GitHub\Dataset-Retail\images\train\train_sya_485.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,18 +21,6 @@
 			<ymin>349</ymin>
 			<xmax>203</xmax>
 			<ymax>419</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>empty</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>1</difficult>
-		<bndbox>
-			<xmin>396</xmin>
-			<ymin>505</ymin>
-			<xmax>432</xmax>
-			<ymax>574</ymax>
 		</bndbox>
 	</object>
 </annotation>

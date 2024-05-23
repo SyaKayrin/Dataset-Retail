@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>train_sya_240.jpg</filename>
-	<path>C:\Users\User\Desktop\train\train_sya_240.jpg</path>
+	<path>C:\Users\User\Documents\GitHub\Dataset-Retail\images\train\train_sya_240.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>1</difficult>
 		<bndbox>
-			<xmin>562</xmin>
+			<xmin>572</xmin>
 			<ymin>440</ymin>
 			<xmax>636</xmax>
-			<ymax>500</ymax>
+			<ymax>501</ymax>
 		</bndbox>
 	</object>
 </annotation>

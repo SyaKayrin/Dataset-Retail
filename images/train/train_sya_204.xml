@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>train_sya_204.jpg</filename>
-	<path>C:\Users\User\Desktop\train\train_sya_204.jpg</path>
+	<path>C:\Users\User\Documents\GitHub\Dataset-Retail\images\train\train_sya_204.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>1</difficult>
 		<bndbox>
-			<xmin>479</xmin>
+			<xmin>495</xmin>
 			<ymin>175</ymin>
 			<xmax>549</xmax>
-			<ymax>225</ymax>
+			<ymax>223</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,34 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>1</difficult>
 		<bndbox>
-			<xmin>410</xmin>
-			<ymin>101</ymin>
-			<xmax>534</xmax>
-			<ymax>162</ymax>
+			<xmin>14</xmin>
+			<ymin>397</ymin>
+			<xmax>54</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>180</ymin>
+			<xmax>233</xmax>
+			<ymax>224</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>empty</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<difficult>1</difficult>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>397</ymin>
-			<xmax>54</xmax>
-			<ymax>438</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>empty</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>1</difficult>
-		<bndbox>
-			<xmin>518</xmin>
-			<ymin>288</ymin>
-			<xmax>565</xmax>
-			<ymax>331</ymax>
+			<ymin>495</ymin>
+			<xmax>49</xmax>
+			<ymax>552</ymax>
 		</bndbox>
 	</object>
 </annotation>

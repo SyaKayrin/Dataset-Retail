@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Test_group</folder>
+	<folder>test</folder>
 	<filename>train52.jpg</filename>
-	<path>C:\Users\rafid\Desktop\COS30018_Assignment\DATA_SET\Test_group\train52.jpg</path>
+	<path>C:\Users\User\Documents\GitHub\Dataset-Retail\images\test\train52.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -89,30 +89,6 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>329</xmin>
-			<ymin>165</ymin>
-			<xmax>350</xmax>
-			<ymax>223</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>empty</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>224</xmin>
-			<ymin>164</ymin>
-			<xmax>245</xmax>
-			<ymax>223</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>empty</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>129</xmin>
 			<ymin>166</ymin>
 			<xmax>155</xmax>
@@ -165,6 +141,18 @@
 			<ymin>489</ymin>
 			<xmax>339</xmax>
 			<ymax>538</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>162</ymin>
+			<xmax>252</xmax>
+			<ymax>228</ymax>
 		</bndbox>
 	</object>
 </annotation>
