@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Test_group</folder>
+	<folder>test</folder>
 	<filename>train7.jpg</filename>
-	<path>C:\Users\rafid\Desktop\COS30018_Assignment\DATA_SET\Test_group\train7.jpg</path>
+	<path>C:\Users\User\Documents\GitHub\Dataset-Retail\images\test\train7.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,8 +29,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>43</xmin>
-			<ymin>189</ymin>
+			<xmin>42</xmin>
+			<ymin>181</ymin>
 			<xmax>92</xmax>
 			<ymax>239</ymax>
 		</bndbox>

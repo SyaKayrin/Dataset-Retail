@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Test_group</folder>
+	<folder>test</folder>
 	<filename>train46.jpg</filename>
-	<path>C:\Users\rafid\Desktop\COS30018_Assignment\DATA_SET\Test_group\train46.jpg</path>
+	<path>C:\Users\User\Documents\GitHub\Dataset-Retail\images\test\train46.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -81,6 +81,18 @@
 			<ymin>447</ymin>
 			<xmax>592</xmax>
 			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>230</ymin>
+			<xmax>434</xmax>
+			<ymax>275</ymax>
 		</bndbox>
 	</object>
 </annotation>
